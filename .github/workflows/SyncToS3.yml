@@ -4,7 +4,7 @@ name: SyncToS3
 
 on:
   push:
-    branches: [ master ]
+    branches: [ Dev ]
 
 jobs:
   build:
